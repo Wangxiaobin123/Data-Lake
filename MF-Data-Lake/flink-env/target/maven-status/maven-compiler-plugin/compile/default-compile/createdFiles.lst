@@ -1,0 +1,15 @@
+cn/percent/mf/data/lake/example/SqlToHudiExample.class
+cn/percent/mf/data/lake/example/FlinkDorisDemo$1.class
+cn/percent/mf/data/lake/MfDataLakeApply.class
+cn/percent/mf/data/lake/example/SqlCompanyDataToHudiJavaKafkaFlink.class
+cn/percent/mf/data/lake/example/FlinkKafkaCompany2DorisDemo$2.class
+cn/percent/mf/data/lake/example/SqlToHudiJavaKafkaFlink.class
+cn/percent/mf/data/lake/example/FlinkDorisDemo.class
+cn/percent/mf/data/lake/example/FlinkStarRocksDemo$1.class
+cn/percent/mf/data/lake/example/FlinkKafkaCompany2DorisDemo.class
+cn/percent/mf/data/lake/util/KafkaConsumerUtil.class
+cn/percent/mf/data/lake/example/FlinkDorisDemo$2.class
+cn/percent/mf/data/lake/example/FlinkKafkaCompany2DorisDemo$1.class
+cn/percent/mf/data/lake/example/FlinkStarRocksDemo.class
+cn/percent/mf/data/lake/example/FlinkApiHudi.class
+cn/percent/mf/data/lake/example/FlinkStarRocksDemo$2.class
