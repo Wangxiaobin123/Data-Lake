@@ -1,0 +1,10 @@
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/util/KafkaConsumerUtil.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/FlinkKafkaCompany2DorisDemo.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/SqlCompanyDataToHudiJavaKafkaFlink.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/FlinkDorisDemo.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/FlinkStarRocksDemo.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/SqlToHudiExample.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/SqlToHudiJavaKafkaFlink.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/FlinkApiHudi.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/example/FlinkKafkaCompany2StarRocksDemo.java
+/Users/wangshengbin/shengbin/java-mediaforce-v4/MF-Data-Lake/flink-env/src/main/java/cn/percent/mf/data/lake/MfDataLakeApply.java
